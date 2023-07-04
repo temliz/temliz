@@ -2,7 +2,7 @@
 x<picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="![7862BC85-9D8D-4444-8839-9131D7A69C3E_1_201_a](https://github.com/temliz/temliz/assets/123493735/bf8b931a-f9df-4aeb-85a6-006e4f99449e)
+ <img alt="YOUR-ALT-TEXT" src="")
 ">
 </picture>
 
