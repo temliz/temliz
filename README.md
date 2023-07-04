@@ -1,9 +1,8 @@
 
-x<picture>
+<picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="")
-">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://share.icloud.com/photos/055l5UehAjVFlNbsaxSzVRwlg)">
 </picture>
 
 
